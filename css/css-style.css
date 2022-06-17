@@ -4468,7 +4468,6 @@ object {
 }
 .blog-items {
   float: left;
-  width: 66.666%;
 }
 .no-sidebar .blog-items {
   float: none;
