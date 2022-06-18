@@ -1831,7 +1831,6 @@ blockquote {
   .section.started .started-content .h-title {
     left: 0;
     bottom: 30px;
-    padding-right: 50px;
     font-size: 17px;
   }
   .section.started .started-content .h-subtitle,
@@ -4418,8 +4417,7 @@ object {
   .video-bg {
     margin-left: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    height: 50%;
   }
 }
 .video-bg-mask {
